@@ -1,2 +1,2 @@
-# RegressionTest
+# Regression Test
 Automation Test - Katalon
